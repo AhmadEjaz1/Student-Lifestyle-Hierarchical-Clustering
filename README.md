@@ -1,6 +1,8 @@
 # Student-Lifestyle-Hierarchical-Clustering
 Hierarchical Clustering is an unsupervised machine learning technique used to group similar data points into clusters based on their characteristics. In the context of student lifestyle analysis, it can help identify distinct groups of students with similar habits (e.g., study patterns, sleep schedules, social activities).
 
+# For Data Set
+visit:https://www.kaggle.com/datasets/charlottebennett1234/lifestyle-factors-and-their-impact-on-students
 # Key Concepts
 1. How Hierarchical Clustering Works
 Agglomerative (Bottom-Up) Approach:
